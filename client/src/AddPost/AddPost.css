@@ -1,0 +1,13 @@
+.addpost input{
+    border:none;
+    border-bottom: 1px solid grey;
+    border-radius: 0;
+}
+.addpost{
+    display: flex;
+    width: 100%;
+    justify-content: center;
+}
+.addpost form{
+    max-width: 300px;
+}

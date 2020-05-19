@@ -1,0 +1,23 @@
+.imagecont{
+    max-width:300px;
+    height:250px;
+}
+.postcont{
+    margin:10px;
+
+}
+img{
+    width:100%;
+    height:100%;
+}
+.likecont{
+    margin-top:5px;
+    display:flex;
+}
+.like,.comment{
+    margin-right:10px;
+}
+.nolikes{
+    text-align: left;
+    margin-top: 5px;
+}
